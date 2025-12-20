@@ -3,3 +3,4 @@ Hello what's going on
 3rd line added from github from adding outside visual studio
 4 th line from remote
 Hi this new fresh line i write in repo from remote
+New changes has been added in file as 6 th line
